@@ -16,7 +16,6 @@ This Power BI dashboard provides a comprehensive analysis of supply chain perfor
 - How do transportation modes (Air, Road, Rail, Sea) impact cost and efficiency?  
 - What is the pass rate of supplier inspections, and how many inspections are pending?  
 - How many products are sold per customer demographic and route?    
-- What is the order fulfillment rate, and how accurately are customer orders processed?
 
 Dashboard Interaction <a href="https://github.com/Aleenapatani03/Data-Analysis-Dashboard/blob/main/supplier%20data.pbix">View Dashboard</a>
 
@@ -32,6 +31,24 @@ Dashboard Interaction <a href="https://github.com/Aleenapatani03/Data-Analysis-D
 ## Dashboard
 
 ![Screenshot 2025-03-18 232807](https://github.com/user-attachments/assets/a2e93789-0da6-43a3-a879-d5daab4d4cdb)
+
+## Project Insights
+
+- Real-time insights into revenue, cost, and profit trends.  
+- Tracks stock utilization to prevent overstocking or stockouts.  
+- Monitors supplier inspections, defect rates, and fulfillment accuracy.  
+- Analyzes shipping costs, delivery routes, and transportation modes.  
+- Identifies cosmetic trends across different locations, helping businesses optimize inventory based on demand.  
+- Analyzes sales distribution by gender, showing which locations have higher purchases by men or women.
+
+## Conclusion 
+
+The Supply Chain Performance Dashboard provides valuable insights into revenue, inventory, supplier performance, and logistics, enabling data-driven decision-making. 
+By tracking cosmetic trends across different locations and analyzing sales distribution by gender, businesses can optimize stock, improve fulfillment strategies,
+and tailor marketing efforts.
+
+
+
 
 
 
